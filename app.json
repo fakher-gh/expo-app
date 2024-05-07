@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7f8a0cd9-1cd3-413d-8976-794f963e4a7c"
+      }
+    },
+    "owner": "fakher.ghouili"
   }
 }
